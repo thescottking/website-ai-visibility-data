@@ -4,6 +4,8 @@ Public company lists from Scott King's research into how websites show up to AI 
 
 Each study gets its own folder. The lists show which sites were measured. They do not include the measurement results.
 
+The measurement results are at https://thescottking.com/what-ai-search-engines-see-b2b-software-websites
+
 By [Scott King](https://thescottking.com) · [LinkedIn](https://www.linkedin.com/in/thescottking/)
 
 ## Datasets
